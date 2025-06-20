@@ -1,0 +1,60 @@
+@font-face {
+    font-family: eina01-bold;
+    src: url(../fonts/Eina/Eina01-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: eina01-bolditalic;
+    src: url(../fonts/Eina/Eina01-BoldItalic.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: eina01-semibold;
+    src: url(../fonts/Eina/Eina01-SemiBold.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: eina01-semibolditalic;
+    src: url(../fonts/Eina/Eina01-SemiboldItalic.ttf) format("truetype");
+    font-weight: 600;
+    font-style: italic
+}
+
+@font-face {
+    font-family: eina01-regular;
+    src: url(../fonts/Eina/Eina01-Regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: eina01-regularitalics;
+    src: url(../fonts/Eina/Eina01-RegularItalic.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: eina01-light;
+    src: url(../fonts/Eina/Eina01-Light.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: eina01-lightitalics;
+    src: url(../fonts/Eina/Eina01-LightItalic.ttf) format("truetype");
+    font-weight: 300;
+    font-style: italic
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: eina01-bold!important;
+    font-weight: 700
+}
