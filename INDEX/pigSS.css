@@ -254,9 +254,6 @@ nav.sticky .action_btn1:hover{
 }
 
 
-nav.sticky .action_btn:hover{
-    color: #ffffff;
-}
 
 
  .action_btndd:hover{
@@ -472,6 +469,7 @@ nav.scrolled .navbar .logo{
 
 .trailer{
     display: flex;
+    gap: 40px;
     max-width: 1165px;
     flex-wrap: wrap;
     margin: auto;
