@@ -855,12 +855,14 @@ h2{
    background: linear-gradient(180deg,#f2f8f4,#fff 33.01%);
 }
 
-.drizzy{
+.burna{
     display: flex;
     align-items: center;
     justify-content: center;
     max-width: 1195px;
     flex-wrap: wrap;
+    max-width: 1165px;
+    margin: auto;
 }
 .racks{
     display: flex;
@@ -886,10 +888,7 @@ h2{
     height: 40px;
 }
 
-.burna{
-    max-width: 1165px;
-    margin: auto;
-}
+
 
 footer{
     background: white;
